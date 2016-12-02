@@ -1,0 +1,115 @@
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+html,
+body {
+	height: 100%;
+	min-height: 100%;
+	width: 100%;
+}
+#big-image{
+	background: url('../photos/hotairballoonweb.jpg');
+	background-size: cover;
+	min-height: 95vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+	flex-direction: column;
+}
+
+.features-image{
+	background: url('../photos/skyweb.jpg');
+	background-size: cover;
+	min-height: 95vh;
+	padding-top:5px;
+}
+
+
+#features img{
+	max-width:100%;
+	max-height:100%;
+	display: block;
+	margin:0 auto;
+}
+
+
+.bucketlisters-color{
+	background-color: #65b4ce;
+}
+
+.bucketlisters-text-color{
+	color: #65b4ce;
+}
+
+#big-image-camel{
+	background: url('../photos/camelweb.jpg');
+	background-size: cover;
+	min-height: 95vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+	flex-direction: column;
+}
+
+#big-image-camel p{
+	margin-top:0;
+	width:50%;
+}
+
+#big-image-work{
+	background: url('../photos/deskweb.jpg');
+	background-size: cover;
+	min-height: 95vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+	flex-direction: column;
+}
+
+#big-image-work p{
+	margin-bottom:0;
+}
+
+
+#big-image-work li{
+	list-style-type: disc;
+}
+
+#big-image-features{
+	background: url('../photos/phoneweb.jpg');
+	background-size: cover;
+	min-height: 95vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+	flex-direction: column;
+}
+
+#big-image-features p{
+	margin-top:0;
+}
+.big-image-proto{
+
+}
+.bigger{
+	font-size: 16px; 
+}
+
+iframe{
+	display: block;
+	margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
